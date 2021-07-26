@@ -14,19 +14,19 @@
    <p>Similar visors over the headlights were used by</p> 
    <ul>
      <li>Packard cars of 1955 and 1956,</li><br/>
-<img src="images/packard.jpg" alt="Pretty white car"><br/>
+<img src="packard.jpg" alt="Pretty white car"><br/>
 
      <li>Lincoln (1956),</li><br/>
-<img src="images/lincoln.jpg" alt="Pretty white car"><br/>
+<img src="lincoln.jpg" alt="Pretty white car"><br/>
 
      <li>Mercury (1955-1956),</li><br/> 
-<img src="images/mercury.jpg" alt="Pretty white car"><br/>
+<img src="mercury.jpg" alt="Pretty white car"><br/>
 
      <li>Plymouth (1955-1956)</li><br/> 
-<img src="images/plymouth.jpg" alt="Pretty white car"><br/>
+<img src="plymouth.jpg" alt="Pretty white car"><br/>
 
      <li>and other brands, the prototype of this style was the Xpt-100-Concert Ford 1953.</li><br/>
-<img src="images/ford.jpg" alt="Pretty white car"><br/>
+<img src="ford.jpg" alt="Pretty white car"><br/>
 
    </ul>
    <p>The design of the tail section of the "The Chaika" resembled the then corporate identity of the <a href="https://www.gm.com/" target="_blank">General Motors concern</a>, which was used on Chevrolet (1956-1957), Pontiac (1957), Buick (1955-1958), Holden (1960-1962) cars.</p>
